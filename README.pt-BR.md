@@ -2,7 +2,7 @@
 
 Software para a sua IA: arquivos, planilhas e regras da empresa, com acesso por pessoa e histórico.
 
-A Siglata é feita pela Siglata Tecnologia Ltda, de Franca (SP). Ela dá à sua IA (o ChatGPT, o Codex, o Claude Code ou qualquer agente compatível com MCP) os arquivos, as planilhas e as exportações do ERP da empresa. A sua IA consulta as células das planilhas, busca texto em PDF, Word e PowerPoint e salva as mudanças nas planilhas como uma nova edição do arquivo, mantendo a anterior. A Siglata lê as exportações do ERP e não se conecta ao ERP nem grava nada nele.
+A Siglata é feita pela Siglata Tecnologia Ltda, de Franca (SP). Ela dá à sua IA (o ChatGPT, o Codex, o Claude Code ou qualquer agente compatível com MCP) os arquivos, as planilhas e as exportações do ERP da empresa. A sua IA consulta as células das planilhas, busca texto em PDF, Word e PowerPoint e salva as mudanças nas planilhas como uma nova edição do arquivo, mantendo a anterior.
 
 Este repositório guarda a página pública do servidor: o manifesto do registro e o guia de conexão. O servidor é hospedado pela Siglata e o código dele não está aqui.
 
