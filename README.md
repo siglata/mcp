@@ -2,7 +2,7 @@
 
 Software for your AI: company files, spreadsheets and rules, with per-person access and history.
 
-Siglata is made by Siglata Tecnologia Ltda, based in Franca, Brazil. It gives your AI (ChatGPT, Codex, Claude Code or any MCP-compatible agent) the company's files, spreadsheets and ERP exports. Your AI queries workbook cells, searches PDF, Word and PowerPoint text, and saves spreadsheet changes as a new edition of the file, keeping the previous one. Siglata reads ERP exports and never connects to or writes into the ERP.
+Siglata is made by Siglata Tecnologia Ltda, based in Franca, Brazil. It gives your AI (ChatGPT, Codex, Claude Code or any MCP-compatible agent) the company's files, spreadsheets and ERP exports. Your AI queries workbook cells, searches PDF, Word and PowerPoint text, and saves spreadsheet changes as a new edition of the file, keeping the previous one.
 
 This repository holds the public listing for the server: the registry manifest and the setup guide. The server itself is hosted by Siglata and its code is not published here.
 
