@@ -3,7 +3,11 @@
   "name": "com.siglata/mcp",
   "title": "Siglata",
   "description": "Software for your AI: company files, spreadsheets and rules, with per-person access and history.",
-  "version": "3.0.1",
+  "version": "3.0.2",
+  "repository": {
+    "url": "https://github.com/siglata/mcp",
+    "source": "github"
+  },
   "websiteUrl": "https://www.siglata.com/docs/agents/mcp",
   "icons": [
     {

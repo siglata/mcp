@@ -8,7 +8,7 @@ This repository holds the public listing for the server: the registry manifest a
 
 ## Connect
 
-| | |
+|  |  |
 | :-- | :-- |
 | Server URL | `https://www.siglata.com/v1/mcp` |
 | Transport | Streamable HTTP |

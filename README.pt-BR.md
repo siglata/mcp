@@ -8,7 +8,7 @@ Este repositório guarda a página pública do servidor: o manifesto do registro
 
 ## Conectar
 
-| | |
+|  |  |
 | :-- | :-- |
 | Endereço do servidor | `https://www.siglata.com/v1/mcp` |
 | Transporte | Streamable HTTP |
