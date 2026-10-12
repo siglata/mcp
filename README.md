@@ -14,7 +14,7 @@ This repository holds the public listing for the server: the registry manifest a
 | Transport | Streamable HTTP |
 | Authentication | OAuth 2.0 authorization code with PKCE (S256); Client ID Metadata Documents or dynamic client registration |
 | Registry name | `com.siglata/mcp` |
-| Version | 3.0.1 |
+| Version | 3.0.2 |
 
 Add the URL to your client and sign in when it opens the browser. See [docs/oauth.md](docs/oauth.md) for the steps and the scopes, and the [documentation](https://www.siglata.com/docs/agents/mcp) for every tool.
 

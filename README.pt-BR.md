@@ -14,7 +14,7 @@ Este repositório guarda a página pública do servidor: o manifesto do registro
 | Transporte | Streamable HTTP |
 | Autenticação | OAuth 2.0 com código de autorização e PKCE (S256); Client ID Metadata Documents ou registro dinâmico de cliente |
 | Nome no registro | `com.siglata/mcp` |
-| Versão | 3.0.1 |
+| Versão | 3.0.2 |
 
 Cole o endereço no seu cliente e entre quando ele abrir o navegador. Os passos e os escopos estão em [docs/oauth.md](docs/oauth.md); cada ferramenta está na [documentação](https://www.siglata.com/docs/agents/mcp).
 
